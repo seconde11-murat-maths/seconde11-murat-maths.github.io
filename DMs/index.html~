@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Site du cours de mathématiques de la seconde 11 du lycée Murat à Issoire</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Accueil</a></li>
+        		<li><a href="/documents">Documents distribués en classe</a></li>        		
+        		<li><a href="/DMs">Devoirs maison</a></li>
+        		<li><a href="/DSs">Devoirs surveillés</a></li>
+        		<li><a href="/ressources">Ressources externes</a></li>
+
+
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Documents étudiés en classe</h1>
+				<p><ul>
+  <li><a href = "/documents/evaluationDiagnostique.pdf">Evaluation diagnostique</a> (02/09/2016).</li>
+</ul>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="http://lycee-murat.fr/">Site du lycée.</a></li>
+			</ul>
+		</footer>
+	</body>
