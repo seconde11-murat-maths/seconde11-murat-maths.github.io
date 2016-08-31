@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Site du cours de mathématiques de la seconde 11 du lycée Murat à Issoire</title>
+		<title>Site du cours de mathématiques de la seconde 11 du lycée Murat.</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 
@@ -20,9 +20,9 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Ressources externes</h1>
-				<p><ul>
-</ul>
+        		<h1>Bienvenue sur le site du cours de mathématiques de la seconde 11 du lycée Murat.</h1>
+				<p>Vous trouverez ici une copie numérique des documents étudiés en classe ainsi que des ressources numériques
+				concernant les chapitres traités. 
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
