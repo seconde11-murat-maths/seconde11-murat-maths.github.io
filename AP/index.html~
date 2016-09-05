@@ -14,14 +14,14 @@
         		<li><a href="/DMs">Devoirs maison</a></li>
         		<li><a href="/DSs">Devoirs surveillés</a></li>
         		<li><a href="/ressources">Ressources externes</a></li>
-        		<li><a href="/eclairs">Questions éclair</a></li>
-
+			<li><a href="/eclairs">Questions éclair</a></li>		
+			<li><a href="/AP">Accompagnement personnalisé</a></li>
 
     		</ul>
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Devoirs maison</h1>
+        		<h1>Accompagnement personnalisé</h1>
 				<p><ul>
 </ul>
     		</div><!-- /.blurb -->
