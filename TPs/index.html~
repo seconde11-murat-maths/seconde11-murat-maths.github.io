@@ -25,9 +25,14 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Bienvenue sur le site du cours de mathématiques de la seconde 11 du lycée Murat.</h1>
-				<p>Vous trouverez ici une copie numérique des documents étudiés en classe ainsi que des ressources numériques
-				concernant les chapitres traités. 
+        		<h1>Sujets des TDs et TPs.</h1>
+				<p>
+<ul>
+<h3>Chapitre 1 : repérage</h3>
+<ul>
+<li><a href = "sujetTP1.pdf">Sujet du TP 1. (12/09/2016)</a>
+</ul>
+</ul>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
